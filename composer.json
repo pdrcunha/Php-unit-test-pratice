@@ -1,0 +1,17 @@
+{
+    "name": "phpunit/test",
+    "description": "Praticando testes unitarios",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phpunit\\Test\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pedro Cunha",
+            "email": "pedro.2112@hotmail.com.br"
+        }
+    ],
+    "require": {}
+}
