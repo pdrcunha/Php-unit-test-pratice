@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Phpunit\\Test\\": "app/"
+            "Pedro\\Leilao\\": "App/"
         }
     },
     "authors": [
@@ -13,5 +13,7 @@
             "email": "pedro.2112@hotmail.com.br"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
 }
